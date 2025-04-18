@@ -115,7 +115,7 @@ pnpm dev
 
 ## 📚 Documentation
 
-For detailed documentation, please visit our [Documentation Portal](https://docs.borderless-finance.com).
+Please visit our [Documentation Portal](https://docs.borderless-finance.com) for detailed documentation.
 
 ## 🤝 Contributing
 
