@@ -1,11 +1,7 @@
 # Borderless Financial Inclusion
+[![SDG 10](https://img.shields.io/badge/SDG-10%20Reduced%20Inequalities-0A74DA?style=for-the-badge&logo=un&logoColor=white)](https://sdgs.un.org/goals/goal10)[![Web3](https://img.shields.io/badge/Web3-Enabled-22C55E?style=for-the-badge&logo=web3dotjs&logoColor=white)](https://web3.foundation)[![DeFi](https://img.shields.io/badge/DeFi-Platform-F97316?style=for-the-badge&logo=ethereum&logoColor=white)](https://defi.org)[![Build Status](https://img.shields.io/badge/Build-Passing-4ADE80?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/yourusername/borderless-financial-inclusion/actions)[![Documentation](https://img.shields.io/badge/Docs-Live-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.borderless-finance.com)
 
-[![SDG 10](https://img.shields.io/badge/SDG-10%20Reduced%20Inequalities-blue)](https://sdgs.un.org/goals/goal10)
-[![Web3](https://img.shields.io/badge/Web3-Enabled-brightgreen)](https://web3.foundation)
-[![DeFi](https://img.shields.io/badge/DeFi-Platform-orange)](https://defi.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Build Status](https://img.shields.io/badge/Build-Passing-success)](https://github.com/yourusername/borderless-financial-inclusion/actions)
-[![Documentation](https://img.shields.io/badge/Docs-Live-blue)](https://docs.borderless-finance.com)
+---
 
 A decentralized finance (DeFi) platform focused on enabling borderless financial transactions, built with Web3 technologies and aligned with the United Nations' Sustainable Development Goals.
 
@@ -59,7 +55,7 @@ To empower individuals and communities worldwide with accessible, secure, and ef
 - **Frontend**: 
   - Next.js 15
   - Three.js
-  -Anime.js
+  - Anime.js
   - React 19
   - TailwindCSS
   - Radix UI Components
@@ -104,24 +100,22 @@ pnpm dev
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## 📊 Project Impact
-
-![Impact Metrics](public/impact-metrics.png)
-
-- **1.7B+** Unbanked individuals targeted
-- **90%** Reduction in remittance fees
-- **24/7** Global access to financial services
-- **100%** Transparent transactions
-
-## 📚 Documentation
-
-Please visit our [Documentation Portal](https://docs.borderless-finance.com) for detailed documentation.
+## Project Impact Matrix
+  ```mermaid
+graph TD
+    A[IMPACT METRICS]
+    A --> B[1.7B+<br/>Unbanked Individuals Targeted]
+    A --> C[90%<br/>Reduction in Remittance Fees]
+    A --> D[24/7<br/>Global Access to Financial Services]
+    A --> E[100%<br/>Transparent Transactions]
+```
 
 ## 🤝 Contributing
 
 We welcome contributions from the community! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
 ## 📄 License
+[![License](https://img.shields.io/badge/License-MIT-8DC63F?style=for-the-badge&logo=open-source-initiative&logoColor=white)](LICENSE)[![UNICEF](https://img.shields.io/badge/Supported%20by-UNICEF-0099FF?style=for-the-badge&logo=unicef&logoColor=white)](https://www.unicef.org/)[![UN](https://img.shields.io/badge/UN-Affiliated-0052B4?style=for-the-badge&logo=un&logoColor=white)](https://www.un.org/)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -131,6 +125,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The Web3 community for their continuous innovation
 - All our contributors and supporters
 
-<div align="center">
-  <p>Made with ❤️ for a more inclusive financial future</p>
-</div> 
+--------------------------------------------------------------------------------
+<p align="center">
+  
+![Google](https://img.shields.io/badge/Powered%20by-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/sps-projects-f5fbf0ab/v0-crypto-vest)
+
+`© 2025 Arknight007. All rights reserved.`
+</p>
