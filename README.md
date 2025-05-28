@@ -102,12 +102,16 @@ pnpm dev
 
 ## Project Impact Matrix
   ```mermaid
-graph TD
-    A[IMPACT METRICS]
-    A --> B[1.7B+<br/>Unbanked Individuals Targeted]
-    A --> C[90%<br/>Reduction in Remittance Fees]
-    A --> D[24/7<br/>Global Access to Financial Services]
-    A --> E[100%<br/>Transparent Transactions]
+sequenceDiagram
+    participant User
+    participant FinancialAccessPlatform
+    participant GlobalEconomy
+
+    User->>FinancialAccessPlatform: Request financial services
+    FinancialAccessPlatform-->>User: Provide 24/7 Access
+    FinancialAccessPlatform-->>User: Offer Transparent Transactions (100%)
+    FinancialAccessPlatform-->>GlobalEconomy: Reduce Remittance Fees (90%)
+    FinancialAccessPlatform-->>User: Enable Access for 1.7B+ Unbanked
 ```
 
 ## 🤝 Contributing
